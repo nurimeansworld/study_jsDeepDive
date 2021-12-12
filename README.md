@@ -9,7 +9,7 @@
 - 박누리 [github/깃허브아이디](깃허브주소)
 - 박서영 [github/ongddree](깃허브주소)
 - 안소현 [github/깃허브아이디](깃허브주소)
-- 이승연 [github/깃허브아이디](깃허브주소)
+- 이승연 [github/seungyyy](깃허브주소)
 
 ## list
 
