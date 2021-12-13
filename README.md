@@ -4,7 +4,7 @@
 
 참여자
 
-- 김초연 [github/깃허브아이디](깃허브주소)
+- 김초연 [github/vnfdusdl](https://github.com/vnfdusdl)
 - 박경서 [github/charile1](깃허브주소)
 - 박누리 [github/깃허브아이디](깃허브주소)
 - 박서영 [github/ongddree](깃허브주소)
@@ -25,7 +25,7 @@
 - 누리 : [5장. 표현식과문](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week1/005_표현식과문)
 - 승연 : [6장. 데이터타입]()
 - 서영 : [7장. 연산자]()
-- 초연 : [8장. 제어문](), [10장. 객체리터럴]()
+- 초연 : [8장. 제어문](https://github.com/vnfdusdl/Study_JSDeepdive/blob/main/08%EC%A0%9C%EC%96%B4%EB%AC%B8.md), [10장. 객체리터럴](https://github.com/vnfdusdl/Study_JSDeepdive/blob/main/10%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4.md)
 - 소현 : [9장. 타입변환과단축평가]()
 - 스터디 기록과 회고 [archive211202.md](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week1/archive211202.md)
 
@@ -33,7 +33,7 @@
 
 - 누리 : [12장. 함수](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week2/012_함수.md)
 - 소현 : [23장. 실행컨텍스트](), [14장. 전역변수의문제점]()
-- 초연 : [13장. 스코프]()
+- 초연 : [13장. 스코프](https://github.com/vnfdusdl/Study_JSDeepdive/blob/main/13%EC%8A%A4%EC%BD%94%ED%94%84.md)
 - 서영 : [15장. 블록레벨스코프](), [18장. 함수의일급객체]()
 - 경서 : [16장. 프로퍼티어트리뷰트]()
 - 승연 : [17장. 객체생성]()
