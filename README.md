@@ -5,11 +5,11 @@
 참여자
 
 - 김초연 [github/vnfdusdl](https://github.com/vnfdusdl)
-- 박경서 [github/charile1](깃허브주소)
-- 박누리 [github/깃허브아이디](깃허브주소)
-- 박서영 [github/ongddree](깃허브주소)
+- 박경서 [github/charile1](https://github.com/charile1)
+- 박누리 [github/nurimeansworld](https://github.com/nurimeansworld)
+- 박서영 [github/ongddree](https://github.com/ongddree)
 - 안소현 [github/sohyeonAn](https://github.com/sohyeonAn)
-- 이승연 [github/seungyyy](깃허브주소)
+- 이승연 [github/seungyyy](https://github.com/seungyyy)
 
 ## list
 
@@ -46,4 +46,5 @@
 - 서영 : [21장. ]()
 - 초연 : [22장. ]()
 - 소현 : [24장. ]()
-- 누리 : [25장. ]()
+- 누리 : [25장. ](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week3/025_클래스.md)
+- 스터디 기록과 회고 [archive211216.md](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week3/archive211216.md)
