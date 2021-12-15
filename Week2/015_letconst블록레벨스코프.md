@@ -11,7 +11,7 @@ var y = 1;
 // var 키워드로 선언된 변수는 같은 스코프 내에서 중복 선언을 허용한다.
 // 초기화문이 있는 변수 선언문은 자바스크립트 엔진에 의해 var 키워드가 없는 것처럼 동작한다.
 var x = 100;
-// 초기화문이 없는 변수 선언문은 무시된다. (중복 시에)
+// 초기화문이 없는 변수 선언문은 무시된다. (중복 시)
 var y;
 
 console.log(x); // 100
@@ -22,22 +22,21 @@ console.log(y); // 1
 //초기화문이 없는 변수 선언문은 무시된다.(중복 시에)
 
 //1번 케이스
-console.log(y)// undefined
+console.log(y); // undefined
 var y;
-console.log(y) // undefined
+console.log(y); // undefined
 
 //2번 케이스
 var y = 30;
-console.log(y) // 30
+console.log(y); // 30
 var y = 100;
-console.log(y) // 100
+console.log(y); // 100
 
 //3번 케이스 (무시 케이스)
 var y = 30;
-console.log(y) // 30
-var y;                      //초기화문이 없어서
-console.log(y) // 30
-
+console.log(y); // 30
+var y; //초기화문이 없어서
+console.log(y); // 30
 ```
 
 var 단점 - 의도치 않게 먼저 선언된 변수 값이 변경되는 부작용이 발생한다
@@ -63,8 +62,9 @@ console.log(x); // 10
 ### 15.1.3 변수 호이스팅
 
 4.변수
+
 - 변수 호이스팅 : 변수 선언문이 코드의 선두로 끌어 올려진 것처럼 동작하는 자바스크립트 고유의 특징
-(var, let, const, function, function*, class 키워드를 사용해서 선언하는 모든 식별자는 호이스팅된다.)
+  (var, let, const, function, function\*, class 키워드를 사용해서 선언하는 모든 식별자는 호이스팅된다.)
 
 -변수 선언과 값의 할당:
 변수 선언과 값의 할당을 하나의 문으로 단축 표현해도 각각 2개로 나누어 실행
@@ -138,7 +138,7 @@ let i = 10; // 전역 스코프
 function foo() {
   let i = 100;
 
-  for(let i = 1; i < 3; i++) {
+  for (let i = 1; i < 3; i++) {
     console.log(i); // 1 2 블록 레벨 스코프
   }
   console.log(i); // 100 함수 레벨 스코프
@@ -171,7 +171,7 @@ console.log(foo); // 1
 // 런타임 이전에 선언 단계가 실행된다. 아직 변수가 초기화 되지 않았다.
 // 초기화 이전의 일시적 사각지대에서는 변수를 참조할 수 없다.
 console.log(foo); // ReferenceError: foo is not defined
-									// (호이스팅 - 1.선언 &&사각지대)
+// (호이스팅 - 1.선언 &&사각지대)
 
 let foo; // (변수 선언문 - 2. 초기화)
 console.log(foo); // undefined
@@ -189,7 +189,7 @@ console.log(foo); // 1
 결국 let 키워드로 선언한 변수는 변수 호이스팅이 발생하지 않는 것처럼 보이지만 그렇지 않다.
 
 ```jsx
-let foo  = 1;
+let foo = 1;
 {
   console.log(foo); // ReferenceError: Cannot access 'foo' before initialization
   let foo = 2; // 지역 변수
@@ -239,11 +239,11 @@ const foo = 1;
 foo = 2; // TypeError: Assignment to constant variable
 ```
 
-const 키워드로 선언된 변수에 값을 변경할 수 없는 경우 :  원시값을 할당한 경우
+const 키워드로 선언된 변수에 값을 변경할 수 없는 경우 : 원시값을 할당한 경우
 
 1. 원시값은 재할당 이외에 변경할 방법이 없고
 
-b.  const는 재할당이 금지되므로
+b. const는 재할당이 금지되므로
 
 할당된 값을 변경할 수 없다.
 
@@ -263,16 +263,16 @@ const 키워드로 선언된 변수에 원시 값을 할당한 경우 원시 값
 
 ```jsx
 const person = {
-  name: 'Lee'
+  name: "Lee",
 };
 
 // 객체는 변경 가능한 값이다. 따라서 재할당 없이 변경이 가능하다.
-person.name = 'Kim'; //갱신
+person.name = "Kim"; //갱신
 
 console.log(person); // {name: 'Kim'}
 ```
 
-***const 키워드는 재할당을 금지할 뿐 "불변"을 의미하지는 않는다.***
+**_const 키워드는 재할당을 금지할 뿐 "불변"을 의미하지는 않는다._**
 
 ## 15.4 var vs let vs const
 
