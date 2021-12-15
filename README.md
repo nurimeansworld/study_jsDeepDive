@@ -44,6 +44,6 @@
 - 승연 : [19장. ]()
 - 경서 : [20장. ]()
 - 서영 : [21장. ]()
-- 초연 : [22장. ]()
+- 초연 : [22장. this](https://github.com/vnfdusdl/Study_JSDeepdive/blob/main/22this.md)
 - 소현 : [24장. ]()
 - 누리 : [25장. ]()
