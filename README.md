@@ -36,15 +36,15 @@
 - 초연 : [13장. 스코프](https://github.com/vnfdusdl/Study_JSDeepdive/blob/main/13%EC%8A%A4%EC%BD%94%ED%94%84.md)
 - 서영 : [15장. 블록레벨스코프](), [18장. 함수의일급객체]()
 - 경서 : [16장. 프로퍼티어트리뷰트]()
-- 승연 : [17장. 객체생성]()
+- 승연 : [17장. 생성자함수에의한객체생성]()
 - 스터디 기록과 회고 [archive211209.md](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week2/archive211209.md)
 
 ### <span id="week3">Week3 - 21.12.16</span>
 
-- 승연 : [19장. ]()
-- 경서 : [20장. ]()
-- 서영 : [21장. ]()
-- 초연 : [22장. ]()
-- 소현 : [24장. ]()
-- 누리 : [25장. ](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week3/025_클래스.md)
+- 승연 : [19장. 프로토타입]()
+- 경서 : [20장. strictmode]()
+- 서영 : [21장. 빌트인객체]()
+- 초연 : [22장. this]()
+- 소현 : [24장. 클로저]()
+- 누리 : [25장. 클래스](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week3/025_클래스.md)
 - 스터디 기록과 회고 [archive211216.md](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week3/archive211216.md)
