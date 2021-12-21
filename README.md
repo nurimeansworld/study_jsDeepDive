@@ -16,6 +16,7 @@
 - [Week1](#week1)
 - [Week2](#week2)
 - [Week3](#week3)
+- [Week4](#week4)
 
 ---
 
@@ -48,3 +49,13 @@
 - 소현 : [24장. 클로저]()
 - 누리 : [25장. 클래스](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week3/025_클래스.md)
 - 스터디 기록과 회고 [archive211216.md](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week3/archive211216.md)
+
+### <span id="week4">Week3 - 21.12.21</span>
+
+- 서영 : [26장. ES6 함수의 추가 기능]()
+- 경서 : [37장. Set과 Map]()
+- 초연 : [38장. 브라우저의 렌더링 과정]()
+- 누리 : [39장.~5 DOM](<https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week4/039_(~39.5)_DOM.md>)
+- 승연 : [39장.6~ DOM](<https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week4/039_(39.6~)_DOM.md>)
+- 소현 : [43장. Ajax](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week4/043_Ajax.md)
+- 스터디 기록과 회고 [archive211221.md](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week4/archive211221.md)
