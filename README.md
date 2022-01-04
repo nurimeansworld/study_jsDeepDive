@@ -8,7 +8,7 @@
 - 박경서 [github/charile1](https://github.com/charile1)
 - 박누리 [github/nurimeansworld](https://github.com/nurimeansworld)
 - 박서영 [github/ongddree](https://github.com/ongddree)
-- 안소연 [github/sohyeonAn](https://github.com/sohyeonAn)
+- 안소현 [github/sohyeonAn](https://github.com/sohyeonAn)
 - 이승연 [github/seungyyy](https://github.com/seungyyy)
 
 ## list
@@ -27,13 +27,13 @@
 - 승연 : [6장. 데이터타입]()
 - 서영 : [7장. 연산자]()
 - 초연 : [8장. 제어문](https://github.com/vnfdusdl/Study_JSDeepdive/blob/main/08%EC%A0%9C%EC%96%B4%EB%AC%B8.md), [10장. 객체리터럴](https://github.com/vnfdusdl/Study_JSDeepdive/blob/main/10%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4.md)
-- 소연 : [9장. 타입변환과단축평가]()
+- 소현 : [9장. 타입변환과단축평가]()
 - 스터디 기록과 회고 [archive211202.md](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week1/archive211202.md)
 
 ### <span id="week2">Week2 - 21.12.08</span>
 
 - 누리 : [12장. 함수](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week2/012_함수.md)
-- 소연 : [23장. 실행컨텍스트](), [14장. 전역변수의문제점]()
+- 소현 : [23장. 실행컨텍스트](), [14장. 전역변수의문제점]()
 - 초연 : [13장. 스코프](https://github.com/vnfdusdl/Study_JSDeepdive/blob/main/13%EC%8A%A4%EC%BD%94%ED%94%84.md)
 - 서영 : [15장. 블록레벨스코프](), [18장. 함수의일급객체]()
 - 경서 : [16장. 프로퍼티어트리뷰트]()
@@ -46,7 +46,7 @@
 - 경서 : [20장. strictmode]()
 - 서영 : [21장. 빌트인객체]()
 - 초연 : [22장. this]()
-- 소연 : [24장. 클로저]()
+- 소현 : [24장. 클로저]()
 - 누리 : [25장. 클래스](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week3/025_클래스.md)
 - 스터디 기록과 회고 [archive211216.md](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week3/archive211216.md)
 
@@ -57,7 +57,7 @@
 - 초연 : [38장. 브라우저의 렌더링 과정]()
 - 누리 : [39장.~5 DOM](<https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week4/039_(~39.5)_DOM.md>)
 - 승연 : [39장.6~ DOM](<https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week4/039_(39.6~)_DOM.md>)
-- 소연 : [43장. Ajax](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week4/043_Ajax.md)
+- 소현 : [43장. Ajax](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week4/043_Ajax.md)
 - 스터디 기록과 회고 [archive211221.md](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week4/archive211221.md)
 
 ### <span id="week5">Week5 - 22.01.04</span>
@@ -65,7 +65,7 @@
 - 경서 : [40장.~5 이벤트]()
 - 누리 : [40장.5~ 이벤트]()
 - 초연 : [44장. REST API]()
-- 소연 : [45장. 프로미스]()
+- 소현 : [45장. 프로미스]()
 - 서영 : [46장. 제너레이터와 asynce/await]()
 - 승연 : [48장. 모듈]()
 - 스터디 기록과 회고 [archive220104.md](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week5/archive220104.md)
