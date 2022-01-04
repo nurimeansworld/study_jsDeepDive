@@ -63,7 +63,7 @@
 ### <span id="week5">Week5 - 22.01.04</span>
 
 - 경서 : [40장.~5 이벤트]()
-- 누리 : [40장.5~ 이벤트]()
+- 누리 : [40장.5~ 이벤트](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week5/040_(40.6~)_이벤트.md)
 - 초연 : [44장. REST API]()
 - 소현 : [45장. 프로미스]()
 - 서영 : [46장. 제너레이터와 asynce/await]()
