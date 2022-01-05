@@ -45,7 +45,7 @@
 - 승연 : [19장. 프로토타입]()
 - 경서 : [20장. strictmode]()
 - 서영 : [21장. 빌트인객체]()
-- 초연 : [22장. this]()
+- 초연 : [22장. this](https://github.com/vnfdusdl/Study_JSDeepdive/blob/main/22this.md)
 - 소현 : [24장. 클로저]()
 - 누리 : [25장. 클래스](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week3/025_클래스.md)
 - 스터디 기록과 회고 [archive211216.md](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week3/archive211216.md)
@@ -54,7 +54,7 @@
 
 - 서영 : [26장. ES6 함수의 추가 기능]()
 - 경서 : [37장. Set과 Map]()
-- 초연 : [38장. 브라우저의 렌더링 과정]()
+- 초연 : [38장. 브라우저의 렌더링 과정](https://github.com/vnfdusdl/Study_JSDeepdive/blob/main/38%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EA%B3%BC%EC%A0%95.md)
 - 누리 : [39장.~5 DOM](<https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week4/039_(~39.5)_DOM.md>)
 - 승연 : [39장.6~ DOM](<https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week4/039_(39.6~)_DOM.md>)
 - 소현 : [43장. Ajax](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week4/043_Ajax.md)
@@ -64,7 +64,7 @@
 
 - 경서 : [40장.~5 이벤트]()
 - 누리 : [40장.5~ 이벤트](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/Week5/040_(40.6~)_이벤트.md)
-- 초연 : [44장. REST API]()
+- 초연 : [44장. REST API](https://github.com/vnfdusdl/Study_JSDeepdive/blob/main/44REST_API.md)
 - 소현 : [45장. 프로미스]()
 - 서영 : [46장. 제너레이터와 asynce/await]()
 - 승연 : [48장. 모듈]()
