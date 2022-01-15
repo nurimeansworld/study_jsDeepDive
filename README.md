@@ -17,6 +17,7 @@
 - [Week2](#week2)
 - [Week3](#week3)
 - [Week4](#week4)
+- [1독을 마치고 회고💖](https://github.com/nurimeansworld/study_jsDeepDive/blob/main/220111_review.md)
 
 ---
 
